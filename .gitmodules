@@ -1,0 +1,6 @@
+[submodule "personal/themes/hugo-profile"]
+	path = personal/themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git
+[submodule "personal/themes/ananke"]
+	path = personal/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
